@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Column
+  - Coin
   layers:
   - Default
   - TransparentFX
@@ -49,4 +51,7 @@ TagManager:
     locked: 0
   - name: Character
     uniqueID: 4187564461
+    locked: 0
+  - name: Column
+    uniqueID: 1785208961
     locked: 0
